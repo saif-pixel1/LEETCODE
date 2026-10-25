@@ -8,8 +8,7 @@ class Solution:
             elif s[i] == t[j]:
                 i+=1
                 j+=1
-        n = len(t) - j
-        return n
+        return len(t) - j
 
             
 
