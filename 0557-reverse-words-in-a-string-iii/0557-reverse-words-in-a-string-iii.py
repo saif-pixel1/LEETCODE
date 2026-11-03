@@ -3,7 +3,7 @@ class Solution:
         l = 0 
         r = 0
         sb = list(s)
-        
+
         for i in range(len(sb)):
             if sb[i] != " ":
                 i+=1
@@ -19,7 +19,6 @@ class Solution:
             sb[l],sb[r] = sb[r], sb[l]
             l+=1
             r-=1
-
         return "".join(sb)
                 
 
