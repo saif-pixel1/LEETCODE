@@ -46,6 +46,7 @@ DSA Question
 | [0151-reverse-words-in-a-string](https://github.com/saif-pixel1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saif-pixel1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/saif-pixel1/DSA/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/saif-pixel1/DSA/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/saif-pixel1/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saif-pixel1/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -56,6 +57,7 @@ DSA Question
 | [0125-valid-palindrome](https://github.com/saif-pixel1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saif-pixel1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/saif-pixel1/DSA/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/saif-pixel1/DSA/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/saif-pixel1/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saif-pixel1/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
