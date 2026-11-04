@@ -1,22 +1,44 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        i = 0
-        j = 0
-        res = []
+        l = 0 
+        r =0
+        sb = []
 
-        while i < len(word1) and j < len(word2):
-            res.append(word1[i])
-            res.append(word2[j])
+        while l<len(word1) and r<len(word2):
+            sb.append(word1[l])
+            sb.append(word2[r])
 
-            i += 1
-            j += 1
+            l+=1
+            r+=1
+        while l<len(word1):
+            sb.append(word1[l])
+            l+=1
+        while r<len(word2):
+            sb.append(word2[r])
+            r+=1
+        return "".join(sb)
 
-        while i < len(word1):
-            res.append(word1[i])
-            i += 1
+              
 
-        while j < len(word2):
-            res.append(word2[j])
-            j += 1
 
-        return "".join(res)
+
+
+# class Solution:
+#     def mergeAlternately(self, word1: str, word2: str) -> str:
+#         l = 0
+#         r = len(word1)
+#         word = list(word1 + word2)
+
+#         while l < len(word1) and r < len(word):
+#             word[l + 1], word[r] = word[r], word[l + 1]
+#             l += 1
+
+#             if l==1:
+#                 word[l+1], word[r] = word[r], word[l+1]
+#                 r+=1
+#             else:
+#                 r+=1
+
+#             # if l % 2 == 0:
+#             #     r += 1
+#         return "".join(word)
