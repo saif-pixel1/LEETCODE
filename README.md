@@ -16,6 +16,7 @@ DSA Question
 | [0485-max-consecutive-ones](https://github.com/saif-pixel1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/saif-pixel1/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/saif-pixel1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/saif-pixel1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saif-pixel1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/saif-pixel1/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ DSA Question
 | [0557-reverse-words-in-a-string-iii](https://github.com/saif-pixel1/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/saif-pixel1/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/saif-pixel1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/saif-pixel1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/saif-pixel1/DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saif-pixel1/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -78,6 +80,7 @@ DSA Question
 | [0075-sort-colors](https://github.com/saif-pixel1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/saif-pixel1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/saif-pixel1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saif-pixel1/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
