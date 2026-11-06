@@ -54,6 +54,7 @@ DSA Question
 | [1768-merge-strings-alternately](https://github.com/saif-pixel1/DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saif-pixel1/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saif-pixel1/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/saif-pixel1/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saif-pixel1/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -67,6 +68,7 @@ DSA Question
 | [1768-merge-strings-alternately](https://github.com/saif-pixel1/DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saif-pixel1/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saif-pixel1/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/saif-pixel1/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ DSA Question
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/saif-pixel1/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saif-pixel1/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/saif-pixel1/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
