@@ -72,6 +72,7 @@ DSA Question
 | [0680-valid-palindrome-ii](https://github.com/saif-pixel1/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/saif-pixel1/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/saif-pixel1/DSA/tree/master/1768-merge-strings-alternately) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saif-pixel1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saif-pixel1/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saif-pixel1/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/saif-pixel1/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -100,6 +101,7 @@ DSA Question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saif-pixel1/DSA/tree/master/0001-two-sum) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saif-pixel1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Quicksort
 |  |
 | ------- |
@@ -108,4 +110,8 @@ DSA Question
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saif-pixel1/DSA/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saif-pixel1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
