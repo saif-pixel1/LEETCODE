@@ -15,6 +15,7 @@ DSA Question
 | [0119-pascals-triangle-ii](https://github.com/saif-pixel1/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saif-pixel1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saif-pixel1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/saif-pixel1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/saif-pixel1/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/saif-pixel1/DSA/tree/master/0905-sort-array-by-parity) |
@@ -86,6 +87,7 @@ DSA Question
 | [0015-3sum](https://github.com/saif-pixel1/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/saif-pixel1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/saif-pixel1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/saif-pixel1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,6 +107,7 @@ DSA Question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saif-pixel1/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saif-pixel1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Quicksort
 |  |
@@ -117,5 +120,14 @@ DSA Question
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saif-pixel1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
