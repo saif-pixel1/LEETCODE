@@ -8,6 +8,7 @@ DSA Question
 | ------- |
 | [0001-two-sum](https://github.com/saif-pixel1/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/saif-pixel1/DSA/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/saif-pixel1/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saif-pixel1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/saif-pixel1/DSA/tree/master/0118-pascals-triangle) |
@@ -33,6 +34,7 @@ DSA Question
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saif-pixel1/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/saif-pixel1/DSA/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saif-pixel1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
