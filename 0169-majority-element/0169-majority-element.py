@@ -12,8 +12,9 @@ class Solution:
                 l+=1
                 if c==n:
                     return nums[l-1]
-  
+
             else:
+                c=0
                 l+=1
                 continue
         
