@@ -17,6 +17,7 @@ DSA Question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saif-pixel1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/saif-pixel1/DSA/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/saif-pixel1/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/saif-pixel1/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/saif-pixel1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/saif-pixel1/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -88,6 +89,7 @@ DSA Question
 | [0075-sort-colors](https://github.com/saif-pixel1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/saif-pixel1/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/saif-pixel1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/saif-pixel1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -108,6 +110,7 @@ DSA Question
 | ------- |
 | [0001-two-sum](https://github.com/saif-pixel1/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/saif-pixel1/DSA/tree/master/0645-set-mismatch) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saif-pixel1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Quicksort
 |  |
@@ -130,4 +133,8 @@ DSA Question
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saif-pixel1/DSA/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/saif-pixel1/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
