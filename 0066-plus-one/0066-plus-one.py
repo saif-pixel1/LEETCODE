@@ -1,16 +1,28 @@
 class Solution:
     def plusOne(self, digits: list[int]) -> list[int]:
-        s = ""
-        l = 0
-        while l<len(digits):
-            s+= str(digits[l])
-            l+=1
-        re = int(s)
-        r = str(re + 1 )
-        l=0;arr=[]
-        while l<len(r):
-            arr.append(int(r[l]))
-            l+=1
-        return arr
+        l = len(digits)-1
+                
+    
+        while l>=0:
+            if digits[l] != 9:
+                digits[l] = 1 + digits[l]
+                return digits
+            else:
+                digits[l] = 0
+                l-=1
+        digits.insert(0,1)
+        return digits
+                
 
-        
+
+            
+            
+            
+            
+            
+
+
+
+
+
+
