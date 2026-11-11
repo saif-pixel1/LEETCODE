@@ -19,6 +19,7 @@ DSA Question
 | [0485-max-consecutive-ones](https://github.com/saif-pixel1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/saif-pixel1/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/saif-pixel1/DSA/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/saif-pixel1/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/saif-pixel1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/saif-pixel1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
